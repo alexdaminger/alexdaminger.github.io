@@ -4,9 +4,9 @@ main:
     authors: Alexander Daminger
     conference_short: FA
     conference: Finanzarchiv, 2023, 79(2), 111-145. 
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://drive.google.com/file/d/11Ox9bIDgJDH5hEC1Z7mATvvcwLB9YnBW/view?usp=share_link
     code: https://github.com/MrGiovanni/ContinualLearning
-    wp-version: https://drive.google.com/file/d/11Ox9bIDgJDH5hEC1Z7mATvvcwLB9YnBW/view?usp=share_link
+    journal: https://www.mohrsiebeck.com/artikel/homeowner-subsidies-and-suburban-living-empirical-evidence-from-a-subsidy-repeal-101628fa-2023-0005
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/baugenehmigung_graph-1.jpg
 
