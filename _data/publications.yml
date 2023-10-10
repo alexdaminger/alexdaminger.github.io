@@ -6,6 +6,7 @@ main:
     conference: Finanzarchiv, 2023, 79(2), 111-145. 
     journal: https://www.mohrsiebeck.com/artikel/homeowner-subsidies-and-suburban-living-empirical-evidence-from-a-subsidy-repeal-101628fa-2023-0005
     wp: https://drive.google.com/file/d/11Ox9bIDgJDH5hEC1Z7mATvvcwLB9YnBW/view?usp=share_link
+    bgpe: http://bgpe.de/texte/DP/211_Daminger.pdf
     image: ./assets/img/baugenehmigung_graph-1.jpg
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -18,6 +19,7 @@ main:
     conference: Land Economics, 2023, 99(2), 283–301.
     journal: https://le.uwpress.org/content/99/2/283.abstract
     wp: https://www.uni-regensburg.de/assets/wirtschaftswissenschaften/immobilien-dascher/subsidy_repeal.pdf
+    bgpe: http://www.bgpe.de/texte/DP/195_Daminger_Dascher.pdf
     image: ./assets/img/intersection-1.jpg
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
