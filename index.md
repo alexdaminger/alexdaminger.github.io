@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am an Economist at the Austrian Institute of Economic Research (WIFO) in Vienna, Austria. I work in the research group "Regional Economics and Spatial Analysis".
+I am an empirical economist at the [Austrian Institute of Economic Research](https://www.wifo.ac.at).
+I graduated with a Ph.D. in Economics from the [University of Regensburg](https:/www.ur.de) (Germany) in 2021.
 
 ## Research Interests
 
