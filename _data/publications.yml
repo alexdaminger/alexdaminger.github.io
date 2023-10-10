@@ -8,7 +8,7 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     wp-version: https://drive.google.com/file/d/11Ox9bIDgJDH5hEC1Z7mATvvcwLB9YnBW/view?usp=share_link
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/baugenehmigung_graph-1.jpg
 
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
@@ -20,4 +20,4 @@ main:
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/intersection-1.jpg
