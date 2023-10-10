@@ -6,9 +6,10 @@ main:
     conference: Finanzarchiv, 2023, 79(2), 111-145. 
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
+    wp-version: https://drive.google.com/file/d/11Ox9bIDgJDH5hEC1Z7mATvvcwLB9YnBW/view?usp=share_link
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Note
+
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
