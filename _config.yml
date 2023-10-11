@@ -6,9 +6,9 @@ email: alexander.daminger (at) wifo.ac.at
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+keywords: alexander daminger, daminger, economist, wifo, vienna, regensburg, phd, urban economics, housing, empirical economics, causal inference, causal analysis, homewonership, homeowner subsidies, subsidies to homeownership, spatial distribution, spatial analysis, regional economics
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://alexanderdaminger.de
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -21,8 +21,8 @@ twitter: https://twitter.com/alexdaminger
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/daminger.jpg
-favicon: ./assets/img/favicon_ad.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon_da.png
+favicon_dark: ./assets/img/favicon_ad_dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
