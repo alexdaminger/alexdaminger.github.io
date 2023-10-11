@@ -13,7 +13,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.de/citations?user=yMUDaIAAAAAJ&hl
-# cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/daminger_cv.pdf
 github_link: https://github.com/alexdaminger
 linkedin: https://www.linkedin.com/in/alexanderdaminger
 twitter: https://twitter.com/alexdaminger
@@ -21,7 +21,7 @@ twitter: https://twitter.com/alexdaminger
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/daminger.jpg
-favicon: ./assets/img/favicon.png
+favicon: ./assets/img/favicon_ad.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
