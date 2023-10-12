@@ -2,6 +2,7 @@ main:
 
   - title: "Subsidies to Homeownership and Central City Rent"
     authors: <strong>Alexander Daminger</strong>
+    journal: https://www.uni-regensburg.de/assets/wirtschaftswissenschaften/immobilien-dascher/CentralCityRent.pdf
     wp: https://www.uni-regensburg.de/assets/wirtschaftswissenschaften/immobilien-dascher/CentralCityRent.pdf
     bgpe: http://www.bgpe.de/texte/DP/210_Daminger.pdf
     image: ./assets/img/lineplot2-1.jpg
