@@ -27,6 +27,9 @@
       {% if link.bgpe %} 
       <a href="{{ link.bgpe }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">bgpe dp</a>
       {% endif %}
+	  {% if link.wifowp %} 
+      <a href="{{ link.wifowp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">wifo dp</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">code</a>
       {% endif %}
