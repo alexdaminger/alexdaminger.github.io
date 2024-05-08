@@ -1,5 +1,13 @@
 main:
 
+  - title: "Bargain or Bust? Prices, Discounts, and Returns in the Market for Real Estate Foreclosures"
+    authors: <strong>Alexander Daminger</strong>, Simon Wiersma
+    journal: ./assets/files/bargain_or_bust.pdf
+    wp: ./assets/files/bargain_or_bust.pdf
+    image: ./assets/img/foreclosure_discount.png
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+
   - title: "Subsidies to Homeownership and Central City Rent"
     authors: <strong>Alexander Daminger</strong>
     journal: https://www.uni-regensburg.de/assets/wirtschaftswissenschaften/immobilien-dascher/CentralCityRent.pdf
@@ -8,4 +16,6 @@ main:
     image: ./assets/img/lineplot2-1.jpg
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
+    
+
 
