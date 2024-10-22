@@ -22,13 +22,13 @@
       </div>
     <div class="links">
       {% if link.wp %} 
-      <a href="{{ link.wp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">wp</a>
+      <a href="{{ link.wp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">working paper</a>
       {% endif %}
       {% if link.bgpe %} 
-      <a href="{{ link.bgpe }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">bgpe dp</a>
+      <a href="{{ link.bgpe }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">bgpe discussion paper</a>
       {% endif %}
 	  {% if link.wifowp %} 
-      <a href="{{ link.wifowp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">wifo dp</a>
+      <a href="{{ link.wifowp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">wifo discussion paper</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">code</a>
