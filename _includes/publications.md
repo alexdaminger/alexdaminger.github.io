@@ -21,8 +21,8 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
-     {% if journal.pub %} 
-      <a href="{{ journal.pub }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">journal publication</a>
+     {% if link.journal %} 
+      <a href="{{ link.journal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">journal publication</a>
       {% endif %}
       {% if link.wp %} 
       <a href="{{ link.wp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">working paper</a>
