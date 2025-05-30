@@ -1,5 +1,16 @@
 main:
 
+  - title: "Bargain or Bust? Prices, Discounts, and Returns in Berlin's Market for Real Estate Foreclosures"
+    authors: <strong>Alexander Daminger</strong>, Simon Wiersma
+    conference_short: JRER
+    conference: Journal of Real Estate Research, forthcoming.
+    # journal: ./assets/files/bargain_or_bust.pdf
+    wp: ./assets/files/bargain_or_bust.pdf
+    wifowp: https://www.wifo.ac.at/publication/265274/
+    image: ./assets/img/foreclosure_discount.png
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+
   - title: "Homeowner Subsidies and Suburban Living: Empirical Evidence from a Subsidy Repeal"
     authors: <strong>Alexander Daminger</strong>
     conference_short: FA
