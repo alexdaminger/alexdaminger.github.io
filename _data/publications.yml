@@ -4,7 +4,7 @@ main:
     authors: <strong>Alexander Daminger</strong>, Simon Wiersma
     conference_short: JRER
     conference: Journal of Real Estate Research, 2025.
-     journal: https://doi.org/10.1080/08965803.2025.2516889
+    journal: https://doi.org/10.1080/08965803.2025.2516889
     wp: ./assets/files/bargain_or_bust.pdf
     wifowp: https://www.wifo.ac.at/publication/265274/
     image: ./assets/img/foreclosure_discount.png
